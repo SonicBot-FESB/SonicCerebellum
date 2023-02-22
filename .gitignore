@@ -1,0 +1,6 @@
+.pio
+.vscode
+.cache
+cmake-build-*
+.ccls
+compile_commands.json
